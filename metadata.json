@@ -1,0 +1,6 @@
+{
+  "name": "Suno",
+  "description": "Ad-free YouTube Music player and playlist browser featuring a real-time audio stemming workspace to separate and mix Vocals, Drums, Bass, and Melody.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
